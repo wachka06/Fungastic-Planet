@@ -1,1 +1,1 @@
-# Fungastic-Planet
+### Fungastic Planet
